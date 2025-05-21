@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=330&color=8F00FF&text=Hillara%20Felizardo%20シ&section=header&reversal=false&textBg=false&fontSize=40&fontAlign=51&fontAlignY=50&animation=twinkling&rotate=0&fontColor=c8a2c8&descAlignY=62">
+</h1>
 
-<!--
-**hillarafelizardo/hillarafelizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=CA9DFF&center=true&width=435&lines=Software+Developer+%7C+Sysadmin">
+</p>
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" height="80" src="https://i.pinimg.com/736x/4d/e7/5e/4de75e2455a7e9bd7a2839d7cd23ea3b.jpg">
+<br>
+<img align="right" height="150" src="https://i.pinimg.com/736x/38/35/90/383590d5c08309022e9e5b89c845d3f8.jpg">
+
+Estou cursando Redes de Computadores no SENAI, focando em Desenvolvimento de sistemas. Possuo experiência com nuvem Azure e AWS.
+
+Conecte-se comigo!
+
+<br><br>
+
+**"Estava escrito, tinha que acontecer! - MAKTUB"
+
+---
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=">
+</p>
