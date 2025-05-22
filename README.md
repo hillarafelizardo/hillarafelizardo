@@ -18,8 +18,9 @@ Conecte-se comigo!
 
 <br><br>
 
-## *"Estava escrito, tinha que acontecer! - MAKTUB"*
-
+<h2 align="center">
+  "Estava escrito, tinha que acontecer! - MAKTUB"
+</h2>
 ---
 
 ## Tech Stack
