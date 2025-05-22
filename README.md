@@ -18,12 +18,19 @@ Conecte-se comigo!
 
 <br><br>
 
-**"Estava escrito, tinha que acontecer! - MAKTUB"
+## *"Estava escrito, tinha que acontecer! - MAKTUB"*
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=">
+<img src="https://skillicons.dev/icons?i=aws,azure,cpp,debian,git,github,grafana,html,kali,linux,nginx,powershell,py,vscode,">
 </p>
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA_ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=plastic&logo=cisco&color=black) | Cisco NetAcademy Introductions to Networks |
+| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=plastic&logo=amazonwebservices&logoColor=yellow&labelColor=black&color=white) | AWS Academy Cloud Foundations
