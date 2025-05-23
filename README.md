@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=330&color=8F00FF&text=Hillara%20Felizardo%20シ&section=header&reversal=false&textBg=false&fontSize=40&fontAlign=51&fontAlignY=50&animation=twinkling&rotate=0&fontColor=c8a2c8&descAlignY=62">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=330&color=8F00FF&text=Hillara%20Felizardo%20👾&fontColor=5D4E7A&fontSize=40&fontAlign=52&animation=twinkling&descAlignY=62">
 </h1>
 
 <p align="center">
