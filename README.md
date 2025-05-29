@@ -77,7 +77,7 @@ Conecte-se comigo e vamos compartilhar conhecimento!
 - 🛡️ CTF CyberSecurity Minsait  
 - 🏠 Casa IOT  
 - 📊 Projeto Zabbix (AlertFlow)  
-- ☁️ Projeto Azure (em andamento)
+- ☁️ Projeto Azure (TechEvent Systems)
 
 ## 💡Projetos 
 - 🔌 Casa Inteligente  
